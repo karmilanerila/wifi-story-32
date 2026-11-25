@@ -1,0 +1,8 @@
+Build an entry for the make.fun bounty "Tell a Whole Story in 32 Characters"
+(u-xvader-tell-a-whole-story-in-32-characters-f86dd978): a program that writes
+one Wi-Fi network name of at most 32 characters to /output/entry.txt. The name
+must land a joke on the first read and imply a whole story in the few words a
+stranger sees in a phone's network list. The chosen name is "Free WiFi, Cost
+Me My Marriage" (30 characters). Write main.py fresh in this session, verify
+the gate locally (UTF-8, 1-32 characters, not only whitespace), commit and
+push to karmilanerila/wifi-story-32.
